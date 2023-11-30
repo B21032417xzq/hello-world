@@ -9,4 +9,7 @@ char*  StrCpy(char*  dest, char*  src)
 } 
          *dest = *src;
          return ret;
+/**
+B21032417xzq
+**/
 } 
